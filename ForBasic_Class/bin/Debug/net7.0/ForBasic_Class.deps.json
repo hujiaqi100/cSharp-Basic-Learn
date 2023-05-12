@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ForBasic_Class/1.0.0": {
+        "runtime": {
+          "ForBasic_Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForBasic_Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
