@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForBasic_Class", "ForBasic_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForBasic_Interface", "ForBasic_Interface\ForBasic_Interface.csproj", "{880B6D44-8D54-4FA9-80C6-770B91D12A22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForBasic_Other", "预处理器指令\ForBasic_Other.csproj", "{7B2DB3B0-764C-48F5-BC2E-4EBE7E5AC56B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForBasic_Files", "ForBasic_Files\ForBasic_Files.csproj", "{D91914E9-1B1D-44AE-B778-E59057AD8E92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +33,10 @@ Global
 		{7B2DB3B0-764C-48F5-BC2E-4EBE7E5AC56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B2DB3B0-764C-48F5-BC2E-4EBE7E5AC56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B2DB3B0-764C-48F5-BC2E-4EBE7E5AC56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91914E9-1B1D-44AE-B778-E59057AD8E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91914E9-1B1D-44AE-B778-E59057AD8E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91914E9-1B1D-44AE-B778-E59057AD8E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91914E9-1B1D-44AE-B778-E59057AD8E92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

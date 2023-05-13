@@ -1,0 +1,12 @@
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/bin/Debug/net7.0/ForBasic_Files.deps.json
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/bin/Debug/net7.0/ForBasic_Files.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/bin/Debug/net7.0/ForBasic_Files.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/obj/Debug/net7.0/ForBasic_Files.csproj.AssemblyReference.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/obj/Debug/net7.0/ForBasic_Files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/obj/Debug/net7.0/ForBasic_Files.AssemblyInfoInputs.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/obj/Debug/net7.0/ForBasic_Files.AssemblyInfo.cs
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/obj/Debug/net7.0/ForBasic_Files.csproj.CoreCompileInputs.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/obj/Debug/net7.0/ForBasic_Files.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/obj/Debug/net7.0/refint/ForBasic_Files.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/obj/Debug/net7.0/ForBasic_Files.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/obj/Debug/net7.0/ref/ForBasic_Files.dll

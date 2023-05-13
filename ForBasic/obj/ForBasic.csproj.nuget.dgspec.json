@@ -30,11 +30,11 @@
               "/Users/hujiaqi/Projects/ForBasic/ForBasic_Class/ForBasic_Class.csproj": {
                 "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Class/ForBasic_Class.csproj"
               },
+              "/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/ForBasic_Files.csproj": {
+                "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/ForBasic_Files.csproj"
+              },
               "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj": {
                 "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj"
-              },
-              "/Users/hujiaqi/Projects/ForBasic/预处理器指令/ForBasic_Other.csproj": {
-                "projectPath": "/Users/hujiaqi/Projects/ForBasic/预处理器指令/ForBasic_Other.csproj"
               }
             }
           }
@@ -122,14 +122,14 @@
         }
       }
     },
-    "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj": {
+    "/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/ForBasic_Files.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj",
-        "projectName": "ForBasic_Interface",
-        "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj",
+        "projectUniqueName": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/ForBasic_Files.csproj",
+        "projectName": "ForBasic_Files",
+        "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/ForBasic_Files.csproj",
         "packagesPath": "/Users/hujiaqi/.nuget/packages/",
-        "outputPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/obj/",
+        "outputPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hujiaqi/.nuget/NuGet/NuGet.Config"
@@ -176,14 +176,14 @@
         }
       }
     },
-    "/Users/hujiaqi/Projects/ForBasic/预处理器指令/ForBasic_Other.csproj": {
+    "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hujiaqi/Projects/ForBasic/预处理器指令/ForBasic_Other.csproj",
-        "projectName": "ForBasic_Other",
-        "projectPath": "/Users/hujiaqi/Projects/ForBasic/预处理器指令/ForBasic_Other.csproj",
+        "projectUniqueName": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj",
+        "projectName": "ForBasic_Interface",
+        "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj",
         "packagesPath": "/Users/hujiaqi/.nuget/packages/",
-        "outputPath": "/Users/hujiaqi/Projects/ForBasic/预处理器指令/obj/",
+        "outputPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hujiaqi/.nuget/NuGet/NuGet.Config"

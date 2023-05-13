@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ForBasic_Interface\ForBasic_Interface.csproj" />
-    <ProjectReference Include="..\预处理器指令\ForBasic_Other.csproj" />
     <ProjectReference Include="..\ForBasic_Class\ForBasic_Class.csproj" />
+    <ProjectReference Include="..\ForBasic_Files\ForBasic_Files.csproj" />
+    <ProjectReference Include="..\ForBasic_Interface\ForBasic_Interface.csproj" />
   </ItemGroup>
 </Project>

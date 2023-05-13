@@ -12,6 +12,16 @@
           "bin/placeholder/ForBasic_Class.dll": {}
         }
       },
+      "ForBasic_Files/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ForBasic_Files.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ForBasic_Files.dll": {}
+        }
+      },
       "ForBasic_Interface/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -20,16 +30,6 @@
         },
         "runtime": {
           "bin/placeholder/ForBasic_Interface.dll": {}
-        }
-      },
-      "ForBasic_Other/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/ForBasic_Other.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ForBasic_Other.dll": {}
         }
       }
     }
@@ -40,22 +40,22 @@
       "path": "../ForBasic_Class/ForBasic_Class.csproj",
       "msbuildProject": "../ForBasic_Class/ForBasic_Class.csproj"
     },
+    "ForBasic_Files/1.0.0": {
+      "type": "project",
+      "path": "../ForBasic_Files/ForBasic_Files.csproj",
+      "msbuildProject": "../ForBasic_Files/ForBasic_Files.csproj"
+    },
     "ForBasic_Interface/1.0.0": {
       "type": "project",
       "path": "../ForBasic_Interface/ForBasic_Interface.csproj",
       "msbuildProject": "../ForBasic_Interface/ForBasic_Interface.csproj"
-    },
-    "ForBasic_Other/1.0.0": {
-      "type": "project",
-      "path": "../预处理器指令/ForBasic_Other.csproj",
-      "msbuildProject": "../预处理器指令/ForBasic_Other.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "ForBasic_Class >= 1.0.0",
-      "ForBasic_Interface >= 1.0.0",
-      "ForBasic_Other >= 1.0.0"
+      "ForBasic_Files >= 1.0.0",
+      "ForBasic_Interface >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -87,11 +87,11 @@
             "/Users/hujiaqi/Projects/ForBasic/ForBasic_Class/ForBasic_Class.csproj": {
               "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Class/ForBasic_Class.csproj"
             },
+            "/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/ForBasic_Files.csproj": {
+              "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/ForBasic_Files.csproj"
+            },
             "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj": {
               "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj"
-            },
-            "/Users/hujiaqi/Projects/ForBasic/预处理器指令/ForBasic_Other.csproj": {
-              "projectPath": "/Users/hujiaqi/Projects/ForBasic/预处理器指令/ForBasic_Other.csproj"
             }
           }
         }

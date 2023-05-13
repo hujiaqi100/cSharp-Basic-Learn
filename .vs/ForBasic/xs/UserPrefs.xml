@@ -2,26 +2,29 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="ForBasic/Program.cs">
     <Files>
       <File FileName="ForBasic/Program.cs" Line="17" Column="1" />
-      <File FileName="ForBasic_Class/继承.cs" Line="26" Column="33" />
-      <File FileName="ForBasic_Class/多态.cs" Line="48" Column="25" />
-      <File FileName="ForBasic_Interface/Class1.cs" Line="44" Column="8" />
-      <File FileName="ForBasic/Params关键词.cs" Line="1" Column="1" />
-      <File FileName="预处理器指令/Class1.cs" Line="1" Column="1" />
+      <File FileName="ForBasic_Files/文件操作.cs" Line="50" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ForBasic" expanded="True" selected="True">
-            <Node name="ForBasic" expanded="True" />
-            <Node name="ForBasic_Interface" expanded="True" />
-            <Node name="预处理器指令" expanded="True" />
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="ForBasic" expanded="True">
+            <Node name="ForBasic" expanded="True">
+              <Node name="obj" selected="True" />
+            </Node>
+            <Node name="ForBasic_Files" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <DisabledProjects>
+    <String>预处理器指令/ForBasic_Other.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.ItemProperties.ForBasic PreferredExecutionTarget="MonoDevelop.Default" />
   <Debugger.DebugSourceFolders />
   <MultiItemStartupConfigurations>
