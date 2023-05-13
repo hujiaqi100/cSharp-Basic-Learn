@@ -16,3 +16,7 @@
 /Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Class.dll
 /Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Class.pdb
 /Users/hujiaqi/Projects/ForBasic/ForBasic/obj/Debug/net7.0/ForBasic.csproj.CopyComplete
+/Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Interface.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Interface.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Other.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Other.pdb

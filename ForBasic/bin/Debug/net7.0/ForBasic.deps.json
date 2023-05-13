@@ -8,7 +8,9 @@
     ".NETCoreApp,Version=v7.0": {
       "ForBasic/1.0.0": {
         "dependencies": {
-          "ForBasic_Class": "1.0.0"
+          "ForBasic_Class": "1.0.0",
+          "ForBasic_Interface": "1.0.0",
+          "ForBasic_Other": "1.0.0"
         },
         "runtime": {
           "ForBasic.dll": {}
@@ -17,6 +19,16 @@
       "ForBasic_Class/1.0.0": {
         "runtime": {
           "ForBasic_Class.dll": {}
+        }
+      },
+      "ForBasic_Interface/1.0.0": {
+        "runtime": {
+          "ForBasic_Interface.dll": {}
+        }
+      },
+      "ForBasic_Other/1.0.0": {
+        "runtime": {
+          "ForBasic_Other.dll": {}
         }
       }
     }
@@ -28,6 +40,16 @@
       "sha512": ""
     },
     "ForBasic_Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ForBasic_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ForBasic_Other/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

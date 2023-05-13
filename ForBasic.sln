@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForBasic", "ForBasic\ForBas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForBasic_Class", "ForBasic_Class\ForBasic_Class.csproj", "{FA13F082-CD6C-4046-A4E0-A70EAC623075}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForBasic_Interface", "ForBasic_Interface\ForBasic_Interface.csproj", "{880B6D44-8D54-4FA9-80C6-770B91D12A22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForBasic_Other", "预处理器指令\ForBasic_Other.csproj", "{7B2DB3B0-764C-48F5-BC2E-4EBE7E5AC56B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{FA13F082-CD6C-4046-A4E0-A70EAC623075}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA13F082-CD6C-4046-A4E0-A70EAC623075}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA13F082-CD6C-4046-A4E0-A70EAC623075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880B6D44-8D54-4FA9-80C6-770B91D12A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880B6D44-8D54-4FA9-80C6-770B91D12A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880B6D44-8D54-4FA9-80C6-770B91D12A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880B6D44-8D54-4FA9-80C6-770B91D12A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2DB3B0-764C-48F5-BC2E-4EBE7E5AC56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2DB3B0-764C-48F5-BC2E-4EBE7E5AC56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2DB3B0-764C-48F5-BC2E-4EBE7E5AC56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2DB3B0-764C-48F5-BC2E-4EBE7E5AC56B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
