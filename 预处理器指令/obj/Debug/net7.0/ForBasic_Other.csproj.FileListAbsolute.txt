@@ -1,0 +1,12 @@
+/Users/hujiaqi/Projects/ForBasic/预处理器指令/bin/Debug/net7.0/ForBasic_Other.deps.json
+/Users/hujiaqi/Projects/ForBasic/预处理器指令/bin/Debug/net7.0/ForBasic_Other.dll
+/Users/hujiaqi/Projects/ForBasic/预处理器指令/bin/Debug/net7.0/ForBasic_Other.pdb
+/Users/hujiaqi/Projects/ForBasic/预处理器指令/obj/Debug/net7.0/ForBasic_Other.csproj.AssemblyReference.cache
+/Users/hujiaqi/Projects/ForBasic/预处理器指令/obj/Debug/net7.0/ForBasic_Other.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hujiaqi/Projects/ForBasic/预处理器指令/obj/Debug/net7.0/ForBasic_Other.AssemblyInfoInputs.cache
+/Users/hujiaqi/Projects/ForBasic/预处理器指令/obj/Debug/net7.0/ForBasic_Other.AssemblyInfo.cs
+/Users/hujiaqi/Projects/ForBasic/预处理器指令/obj/Debug/net7.0/ForBasic_Other.csproj.CoreCompileInputs.cache
+/Users/hujiaqi/Projects/ForBasic/预处理器指令/obj/Debug/net7.0/ForBasic_Other.dll
+/Users/hujiaqi/Projects/ForBasic/预处理器指令/obj/Debug/net7.0/refint/ForBasic_Other.dll
+/Users/hujiaqi/Projects/ForBasic/预处理器指令/obj/Debug/net7.0/ForBasic_Other.pdb
+/Users/hujiaqi/Projects/ForBasic/预处理器指令/obj/Debug/net7.0/ref/ForBasic_Other.dll

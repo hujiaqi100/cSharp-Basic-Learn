@@ -1,0 +1,12 @@
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/bin/Debug/net7.0/ForBasic_Interface.deps.json
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/bin/Debug/net7.0/ForBasic_Interface.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/bin/Debug/net7.0/ForBasic_Interface.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/obj/Debug/net7.0/ForBasic_Interface.csproj.AssemblyReference.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/obj/Debug/net7.0/ForBasic_Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/obj/Debug/net7.0/ForBasic_Interface.AssemblyInfoInputs.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/obj/Debug/net7.0/ForBasic_Interface.AssemblyInfo.cs
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/obj/Debug/net7.0/ForBasic_Interface.csproj.CoreCompileInputs.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/obj/Debug/net7.0/ForBasic_Interface.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/obj/Debug/net7.0/refint/ForBasic_Interface.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/obj/Debug/net7.0/ForBasic_Interface.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/obj/Debug/net7.0/ref/ForBasic_Interface.dll
