@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForBasic_Interface", "ForBa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForBasic_Files", "ForBasic_Files\ForBasic_Files.csproj", "{D91914E9-1B1D-44AE-B778-E59057AD8E92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForBasic_Async", "ForBasic_Async\ForBasic_Async.csproj", "{BEABA9DF-37F2-432E-9A87-602DC9A8F43C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{D91914E9-1B1D-44AE-B778-E59057AD8E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D91914E9-1B1D-44AE-B778-E59057AD8E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D91914E9-1B1D-44AE-B778-E59057AD8E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEABA9DF-37F2-432E-9A87-602DC9A8F43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEABA9DF-37F2-432E-9A87-602DC9A8F43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEABA9DF-37F2-432E-9A87-602DC9A8F43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEABA9DF-37F2-432E-9A87-602DC9A8F43C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

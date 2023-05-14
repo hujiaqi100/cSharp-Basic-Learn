@@ -1,0 +1,12 @@
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/bin/Debug/net7.0/ForBasic_Async.deps.json
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/bin/Debug/net7.0/ForBasic_Async.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/bin/Debug/net7.0/ForBasic_Async.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/obj/Debug/net7.0/ForBasic_Async.csproj.AssemblyReference.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/obj/Debug/net7.0/ForBasic_Async.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/obj/Debug/net7.0/ForBasic_Async.AssemblyInfoInputs.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/obj/Debug/net7.0/ForBasic_Async.AssemblyInfo.cs
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/obj/Debug/net7.0/ForBasic_Async.csproj.CoreCompileInputs.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/obj/Debug/net7.0/ForBasic_Async.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/obj/Debug/net7.0/refint/ForBasic_Async.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/obj/Debug/net7.0/ForBasic_Async.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/obj/Debug/net7.0/ref/ForBasic_Async.dll

@@ -20,3 +20,6 @@
 /Users/hujiaqi/Projects/ForBasic/ForBasic/obj/Debug/net7.0/ForBasic.pdb
 /Users/hujiaqi/Projects/ForBasic/ForBasic/obj/Debug/net7.0/ForBasic.genruntimeconfig.cache
 /Users/hujiaqi/Projects/ForBasic/ForBasic/obj/Debug/net7.0/ref/ForBasic.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Async.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Async.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/HtmlAgilityPack.dll

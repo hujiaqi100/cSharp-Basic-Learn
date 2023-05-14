@@ -14,49 +14,6 @@
             "related": ".deps.json;.pdb;.xml"
           }
         }
-      },
-      "ForBasic_Async/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "HtmlAgilityPack": "1.11.46"
-        },
-        "compile": {
-          "bin/placeholder/ForBasic_Async.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ForBasic_Async.dll": {}
-        }
-      },
-      "ForBasic_Class/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/ForBasic_Class.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ForBasic_Class.dll": {}
-        }
-      },
-      "ForBasic_Files/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/ForBasic_Files.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ForBasic_Files.dll": {}
-        }
-      },
-      "ForBasic_Interface/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/ForBasic_Interface.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ForBasic_Interface.dll": {}
-        }
       }
     }
   },
@@ -108,34 +65,11 @@
         "lib/uap10.0/HtmlAgilityPack.pdb",
         "lib/uap10.0/HtmlAgilityPack.pri"
       ]
-    },
-    "ForBasic_Async/1.0.0": {
-      "type": "project",
-      "path": "../ForBasic_Async/ForBasic_Async.csproj",
-      "msbuildProject": "../ForBasic_Async/ForBasic_Async.csproj"
-    },
-    "ForBasic_Class/1.0.0": {
-      "type": "project",
-      "path": "../ForBasic_Class/ForBasic_Class.csproj",
-      "msbuildProject": "../ForBasic_Class/ForBasic_Class.csproj"
-    },
-    "ForBasic_Files/1.0.0": {
-      "type": "project",
-      "path": "../ForBasic_Files/ForBasic_Files.csproj",
-      "msbuildProject": "../ForBasic_Files/ForBasic_Files.csproj"
-    },
-    "ForBasic_Interface/1.0.0": {
-      "type": "project",
-      "path": "../ForBasic_Interface/ForBasic_Interface.csproj",
-      "msbuildProject": "../ForBasic_Interface/ForBasic_Interface.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "ForBasic_Async >= 1.0.0",
-      "ForBasic_Class >= 1.0.0",
-      "ForBasic_Files >= 1.0.0",
-      "ForBasic_Interface >= 1.0.0"
+      "HtmlAgilityPack >= 1.11.46"
     ]
   },
   "packageFolders": {
@@ -144,11 +78,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hujiaqi/Projects/ForBasic/ForBasic/ForBasic.csproj",
-      "projectName": "ForBasic",
-      "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic/ForBasic.csproj",
+      "projectUniqueName": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/ForBasic_Async.csproj",
+      "projectName": "ForBasic_Async",
+      "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/ForBasic_Async.csproj",
       "packagesPath": "/Users/hujiaqi/.nuget/packages/",
-      "outputPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic/obj/",
+      "outputPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hujiaqi/.nuget/NuGet/NuGet.Config"
@@ -163,20 +97,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/ForBasic_Async.csproj": {
-              "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/ForBasic_Async.csproj"
-            },
-            "/Users/hujiaqi/Projects/ForBasic/ForBasic_Class/ForBasic_Class.csproj": {
-              "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Class/ForBasic_Class.csproj"
-            },
-            "/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/ForBasic_Files.csproj": {
-              "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/ForBasic_Files.csproj"
-            },
-            "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj": {
-              "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -188,6 +109,12 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+        "dependencies": {
+          "HtmlAgilityPack": {
+            "target": "Package",
+            "version": "[1.11.46, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LBLlmIzS7/mSMzAM7rPnMnyOFbIpIXwoiD6ucZb4Z2zH5fh9xN06uxEZhRMtWC7up4Pa2wrz16H/CWRfzDAD+w==",
+  "success": true,
+  "projectFilePath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/ForBasic_Async.csproj",
+  "expectedPackageFiles": [
+    "/Users/hujiaqi/.nuget/packages/htmlagilitypack/1.11.46/htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

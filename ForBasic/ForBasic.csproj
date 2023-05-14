@@ -11,5 +11,9 @@
     <ProjectReference Include="..\ForBasic_Class\ForBasic_Class.csproj" />
     <ProjectReference Include="..\ForBasic_Files\ForBasic_Files.csproj" />
     <ProjectReference Include="..\ForBasic_Interface\ForBasic_Interface.csproj" />
+    <ProjectReference Include="..\ForBasic_Async\ForBasic_Async.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\net7.0\" />
   </ItemGroup>
 </Project>
