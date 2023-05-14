@@ -1,5 +1,4 @@
 ﻿<Properties StartupConfiguration="多个项目">
-  <MonoDevelop.Ide.ItemProperties.ForBasic__Async FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ForBasic/Program.cs">
     <Files>
       <File FileName="ForBasic/Program.cs" Line="17" Column="1" />
@@ -24,6 +23,7 @@
   <DisabledProjects>
     <String>预处理器指令/ForBasic_Other.csproj</String>
   </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.ForBasic__Attribute FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.ForBasic PreferredExecutionTarget="MonoDevelop.Default" />
   <Debugger.DebugSourceFolders />
   <MultiItemStartupConfigurations>
