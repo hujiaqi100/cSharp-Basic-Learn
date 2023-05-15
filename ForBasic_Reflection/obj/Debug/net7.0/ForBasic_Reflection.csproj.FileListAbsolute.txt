@@ -1,0 +1,12 @@
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/bin/Debug/net7.0/ForBasic_Reflection.deps.json
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/bin/Debug/net7.0/ForBasic_Reflection.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/bin/Debug/net7.0/ForBasic_Reflection.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/obj/Debug/net7.0/ForBasic_Reflection.csproj.AssemblyReference.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/obj/Debug/net7.0/ForBasic_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/obj/Debug/net7.0/ForBasic_Reflection.AssemblyInfoInputs.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/obj/Debug/net7.0/ForBasic_Reflection.AssemblyInfo.cs
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/obj/Debug/net7.0/ForBasic_Reflection.csproj.CoreCompileInputs.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/obj/Debug/net7.0/ForBasic_Reflection.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/obj/Debug/net7.0/refint/ForBasic_Reflection.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/obj/Debug/net7.0/ForBasic_Reflection.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/obj/Debug/net7.0/ref/ForBasic_Reflection.dll

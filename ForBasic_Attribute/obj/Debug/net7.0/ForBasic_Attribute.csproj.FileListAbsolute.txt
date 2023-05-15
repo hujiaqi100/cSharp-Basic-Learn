@@ -1,0 +1,12 @@
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/bin/Debug/net7.0/ForBasic_Attribute.deps.json
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/bin/Debug/net7.0/ForBasic_Attribute.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/bin/Debug/net7.0/ForBasic_Attribute.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/obj/Debug/net7.0/ForBasic_Attribute.csproj.AssemblyReference.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/obj/Debug/net7.0/ForBasic_Attribute.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/obj/Debug/net7.0/ForBasic_Attribute.AssemblyInfoInputs.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/obj/Debug/net7.0/ForBasic_Attribute.AssemblyInfo.cs
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/obj/Debug/net7.0/ForBasic_Attribute.csproj.CoreCompileInputs.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/obj/Debug/net7.0/ForBasic_Attribute.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/obj/Debug/net7.0/refint/ForBasic_Attribute.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/obj/Debug/net7.0/ForBasic_Attribute.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/obj/Debug/net7.0/ref/ForBasic_Attribute.dll

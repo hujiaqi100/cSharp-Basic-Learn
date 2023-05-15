@@ -1,0 +1,98 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ForBasic/1.0.0": {
+        "dependencies": {
+          "ForBasic_Async": "1.0.0",
+          "ForBasic_Attribute": "1.0.0",
+          "ForBasic_Class": "1.0.0",
+          "ForBasic_Files": "1.0.0",
+          "ForBasic_Interface": "1.0.0"
+        },
+        "runtime": {
+          "ForBasic.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.46": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.46.0",
+            "fileVersion": "1.11.46.0"
+          }
+        }
+      },
+      "ForBasic_Async/1.0.0": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.46"
+        },
+        "runtime": {
+          "ForBasic_Async.dll": {}
+        }
+      },
+      "ForBasic_Attribute/1.0.0": {
+        "runtime": {
+          "ForBasic_Attribute.dll": {}
+        }
+      },
+      "ForBasic_Class/1.0.0": {
+        "runtime": {
+          "ForBasic_Class.dll": {}
+        }
+      },
+      "ForBasic_Files/1.0.0": {
+        "runtime": {
+          "ForBasic_Files.dll": {}
+        }
+      },
+      "ForBasic_Interface/1.0.0": {
+        "runtime": {
+          "ForBasic_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForBasic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.46": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dLMn4EVfJBHWmWK4Uh0XGD76FPLHI0qr2Tm0s1m/xmgiHb1JUb9zB8AzO8HtrkBBlMN6JfCUBYddhqC0hZNR+g==",
+      "path": "htmlagilitypack/1.11.46",
+      "hashPath": "htmlagilitypack.1.11.46.nupkg.sha512"
+    },
+    "ForBasic_Async/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ForBasic_Attribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ForBasic_Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ForBasic_Files/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ForBasic_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

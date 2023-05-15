@@ -1,0 +1,15 @@
+/Users/hujiaqi/Projects/ForBasic/SSD/bin/Debug/net7.0/SSD.deps.json
+/Users/hujiaqi/Projects/ForBasic/SSD/bin/Debug/net7.0/SSD.dll
+/Users/hujiaqi/Projects/ForBasic/SSD/bin/Debug/net7.0/SSD.pdb
+/Users/hujiaqi/Projects/ForBasic/SSD/bin/Debug/net7.0/ForBasic_Reflection.dll
+/Users/hujiaqi/Projects/ForBasic/SSD/bin/Debug/net7.0/ForBasic_Reflection.pdb
+/Users/hujiaqi/Projects/ForBasic/SSD/obj/Debug/net7.0/SSD.csproj.AssemblyReference.cache
+/Users/hujiaqi/Projects/ForBasic/SSD/obj/Debug/net7.0/SSD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hujiaqi/Projects/ForBasic/SSD/obj/Debug/net7.0/SSD.AssemblyInfoInputs.cache
+/Users/hujiaqi/Projects/ForBasic/SSD/obj/Debug/net7.0/SSD.AssemblyInfo.cs
+/Users/hujiaqi/Projects/ForBasic/SSD/obj/Debug/net7.0/SSD.csproj.CoreCompileInputs.cache
+/Users/hujiaqi/Projects/ForBasic/SSD/obj/Debug/net7.0/SSD.csproj.CopyComplete
+/Users/hujiaqi/Projects/ForBasic/SSD/obj/Debug/net7.0/SSD.dll
+/Users/hujiaqi/Projects/ForBasic/SSD/obj/Debug/net7.0/refint/SSD.dll
+/Users/hujiaqi/Projects/ForBasic/SSD/obj/Debug/net7.0/SSD.pdb
+/Users/hujiaqi/Projects/ForBasic/SSD/obj/Debug/net7.0/ref/SSD.dll

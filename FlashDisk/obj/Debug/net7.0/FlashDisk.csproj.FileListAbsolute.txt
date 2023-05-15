@@ -1,0 +1,15 @@
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/bin/Debug/net7.0/FlashDisk.deps.json
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/bin/Debug/net7.0/FlashDisk.dll
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/bin/Debug/net7.0/FlashDisk.pdb
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/bin/Debug/net7.0/ForBasic_Reflection.dll
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/bin/Debug/net7.0/ForBasic_Reflection.pdb
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/obj/Debug/net7.0/FlashDisk.csproj.AssemblyReference.cache
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/obj/Debug/net7.0/FlashDisk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/obj/Debug/net7.0/FlashDisk.AssemblyInfoInputs.cache
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/obj/Debug/net7.0/FlashDisk.AssemblyInfo.cs
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/obj/Debug/net7.0/FlashDisk.csproj.CoreCompileInputs.cache
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/obj/Debug/net7.0/FlashDisk.csproj.CopyComplete
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/obj/Debug/net7.0/FlashDisk.dll
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/obj/Debug/net7.0/refint/FlashDisk.dll
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/obj/Debug/net7.0/FlashDisk.pdb
+/Users/hujiaqi/Projects/ForBasic/FlashDisk/obj/Debug/net7.0/ref/FlashDisk.dll

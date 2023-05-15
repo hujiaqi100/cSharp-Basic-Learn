@@ -12,8 +12,12 @@
     <ProjectReference Include="..\ForBasic_Files\ForBasic_Files.csproj" />
     <ProjectReference Include="..\ForBasic_Interface\ForBasic_Interface.csproj" />
     <ProjectReference Include="..\ForBasic_Async\ForBasic_Async.csproj" />
+    <ProjectReference Include="..\ForBasic_Async\ForBasic_Async.csproj" />
+    <ProjectReference Include="..\ForBasic_Attribute\ForBasic_Attribute.csproj" />
+    <ProjectReference Include="..\ForBasic_Reflection\ForBasic_Reflection.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Debug\net7.0\" />
+    <Folder Include="bin\Debug\net7.0\USB\" />
   </ItemGroup>
 </Project>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SSD/1.0.0": {
+        "dependencies": {
+          "ForBasic_Reflection": "1.0.0"
+        },
+        "runtime": {
+          "SSD.dll": {}
+        }
+      },
+      "ForBasic_Reflection/1.0.0": {
+        "runtime": {
+          "ForBasic_Reflection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SSD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ForBasic_Reflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

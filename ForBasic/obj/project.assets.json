@@ -28,6 +28,16 @@
           "bin/placeholder/ForBasic_Async.dll": {}
         }
       },
+      "ForBasic_Attribute/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ForBasic_Attribute.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ForBasic_Attribute.dll": {}
+        }
+      },
       "ForBasic_Class/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -56,6 +66,16 @@
         },
         "runtime": {
           "bin/placeholder/ForBasic_Interface.dll": {}
+        }
+      },
+      "ForBasic_Reflection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ForBasic_Reflection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ForBasic_Reflection.dll": {}
         }
       }
     }
@@ -114,6 +134,11 @@
       "path": "../ForBasic_Async/ForBasic_Async.csproj",
       "msbuildProject": "../ForBasic_Async/ForBasic_Async.csproj"
     },
+    "ForBasic_Attribute/1.0.0": {
+      "type": "project",
+      "path": "../ForBasic_Attribute/ForBasic_Attribute.csproj",
+      "msbuildProject": "../ForBasic_Attribute/ForBasic_Attribute.csproj"
+    },
     "ForBasic_Class/1.0.0": {
       "type": "project",
       "path": "../ForBasic_Class/ForBasic_Class.csproj",
@@ -128,14 +153,21 @@
       "type": "project",
       "path": "../ForBasic_Interface/ForBasic_Interface.csproj",
       "msbuildProject": "../ForBasic_Interface/ForBasic_Interface.csproj"
+    },
+    "ForBasic_Reflection/1.0.0": {
+      "type": "project",
+      "path": "../ForBasic_Reflection/ForBasic_Reflection.csproj",
+      "msbuildProject": "../ForBasic_Reflection/ForBasic_Reflection.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "ForBasic_Async >= 1.0.0",
+      "ForBasic_Attribute >= 1.0.0",
       "ForBasic_Class >= 1.0.0",
       "ForBasic_Files >= 1.0.0",
-      "ForBasic_Interface >= 1.0.0"
+      "ForBasic_Interface >= 1.0.0",
+      "ForBasic_Reflection >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -167,6 +199,9 @@
             "/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/ForBasic_Async.csproj": {
               "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Async/ForBasic_Async.csproj"
             },
+            "/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/ForBasic_Attribute.csproj": {
+              "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Attribute/ForBasic_Attribute.csproj"
+            },
             "/Users/hujiaqi/Projects/ForBasic/ForBasic_Class/ForBasic_Class.csproj": {
               "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Class/ForBasic_Class.csproj"
             },
@@ -175,6 +210,9 @@
             },
             "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj": {
               "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Interface/ForBasic_Interface.csproj"
+            },
+            "/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/ForBasic_Reflection.csproj": {
+              "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/ForBasic_Reflection.csproj"
             }
           }
         }

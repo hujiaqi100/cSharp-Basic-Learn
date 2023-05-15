@@ -9,9 +9,11 @@
       "ForBasic/1.0.0": {
         "dependencies": {
           "ForBasic_Async": "1.0.0",
+          "ForBasic_Attribute": "1.0.0",
           "ForBasic_Class": "1.0.0",
           "ForBasic_Files": "1.0.0",
-          "ForBasic_Interface": "1.0.0"
+          "ForBasic_Interface": "1.0.0",
+          "ForBasic_Reflection": "1.0.0"
         },
         "runtime": {
           "ForBasic.dll": {}
@@ -33,6 +35,11 @@
           "ForBasic_Async.dll": {}
         }
       },
+      "ForBasic_Attribute/1.0.0": {
+        "runtime": {
+          "ForBasic_Attribute.dll": {}
+        }
+      },
       "ForBasic_Class/1.0.0": {
         "runtime": {
           "ForBasic_Class.dll": {}
@@ -46,6 +53,11 @@
       "ForBasic_Interface/1.0.0": {
         "runtime": {
           "ForBasic_Interface.dll": {}
+        }
+      },
+      "ForBasic_Reflection/1.0.0": {
+        "runtime": {
+          "ForBasic_Reflection.dll": {}
         }
       }
     }
@@ -68,6 +80,11 @@
       "serviceable": false,
       "sha512": ""
     },
+    "ForBasic_Attribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "ForBasic_Class/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -79,6 +96,11 @@
       "sha512": ""
     },
     "ForBasic_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ForBasic_Reflection/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

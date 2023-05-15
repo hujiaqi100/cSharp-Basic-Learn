@@ -23,3 +23,7 @@
 /Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Async.dll
 /Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Async.pdb
 /Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/HtmlAgilityPack.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Attribute.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Attribute.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Reflection.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic/bin/Debug/net7.0/ForBasic_Reflection.pdb
