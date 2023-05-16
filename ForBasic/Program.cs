@@ -10,33 +10,20 @@ using System.Collections.Generic;
 using System.Runtime.Loader;
 using System.IO;
 using System.Reflection;
+using ForBasic_Delegate;
 namespace ForBasic
 {
-
-
   public class MainBasic
   {
     static void Main()
     {
-      Type type = typeof(Test);
-      MethodInfo[] methods = type.GetMethods();
-      foreach (MethodInfo method in methods)
-      {
-        object[] attributes = method.GetCustomAttributes(true);
-        foreach (object attribute in attributes)
-        {
-          MyAttribute myAttribute = attribute as MyAttribute;
-          if (myAttribute != null)
-          {
-            Console.WriteLine(myAttribute.AuthorName);
-          }
-        }
-      }
+      Button btn = new Button();
+      UserInterface ui = new UserInterface();
+      btn.Clicked += ui.OnButtonClicked;
+      btn.OnClick();
       Console.Read();
     }
   }
-
-
 }
 
 

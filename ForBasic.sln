@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlashDisk", "FlashDisk\Flas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSD", "SSD\SSD.csproj", "{46E9DDCB-1FDA-4E0B-ACD1-40C681BAF26F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForBasic_Delegate", "For_Basic_ Delegate\ForBasic_Delegate.csproj", "{5F3B0255-4EBB-481A-8B44-8DC3429B91DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{46E9DDCB-1FDA-4E0B-ACD1-40C681BAF26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46E9DDCB-1FDA-4E0B-ACD1-40C681BAF26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46E9DDCB-1FDA-4E0B-ACD1-40C681BAF26F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3B0255-4EBB-481A-8B44-8DC3429B91DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3B0255-4EBB-481A-8B44-8DC3429B91DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3B0255-4EBB-481A-8B44-8DC3429B91DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3B0255-4EBB-481A-8B44-8DC3429B91DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

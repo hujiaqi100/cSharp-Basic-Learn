@@ -1,23 +1,9 @@
-﻿<Properties StartupConfiguration="多个项目">
-  <MonoDevelop.Ide.ItemProperties.SSD FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.FlashDisk FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ForBasic_Attribute/特性.cs">
+﻿<Properties StartupConfiguration="{5EC3FD73-58DF-42B0-A911-E7036278C084}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="For_Basic_ Delegate/委托.cs">
     <Files>
-      <File FileName="ForBasic/Program.cs" Line="15" Column="6" />
-      <File FileName="ForBasic_Files/文件操作.cs" Line="97" Column="1" />
-      <File FileName="ForBasic_Files/文件夹操作.cs" Line="64" Column="7" />
-      <File FileName="ForBasic_Async/Class1.cs" Line="18" Column="6" />
-      <File FileName="ForBasic/结构体.cs" Line="1" Column="1" />
-      <File FileName="ForBasic/枚举.cs" Line="1" Column="1" />
-      <File FileName="ForBasic/数组.cs" Line="1" Column="1" />
-      <File FileName="ForBasic/字符串.cs" Line="1" Column="1" />
-      <File FileName="ForBasic/Params关键词.cs" Line="1" Column="1" />
-      <File FileName="ForBasic_Class/构造函数.cs" Line="1" Column="1" />
-      <File FileName="ForBasic_Class/继承.cs" Line="1" Column="1" />
-      <File FileName="ForBasic_Class/类.cs" Line="1" Column="1" />
-      <File FileName="ForBasic_Class/Static关键词.cs" Line="1" Column="1" />
-      <File FileName="ForBasic_Class/this关键词.cs" Line="1" Column="1" />
-      <File FileName="ForBasic_Attribute/Class1.cs" Line="13" Column="4" />
+      <File FileName="ForBasic/ForBasic.csproj" Line="1" Column="1" />
+      <File FileName="ForBasic/Program.cs" Line="24" Column="27" />
+      <File FileName="For_Basic_ Delegate/委托.cs" Line="11" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,9 +11,7 @@
           <Option id="ShowAllFiles" value="True" />
           <Node name="ForBasic" expanded="True">
             <Node name="ForBasic" expanded="True" />
-            <Node name="ForBasic_Attribute" expanded="True">
-              <Node name="特性.cs" selected="True" />
-            </Node>
+            <Node name="ForBasic_Delegate" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -35,7 +19,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ForBasic__Reflection FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.ForBasic PreferredExecutionTarget="MonoDevelop.Default" />
   <DisabledProjects>
     <String>预处理器指令/ForBasic_Other.csproj</String>
@@ -48,5 +31,7 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

@@ -48,6 +48,16 @@
           "bin/placeholder/ForBasic_Class.dll": {}
         }
       },
+      "ForBasic_Delegate/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ForBasic_Delegate.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ForBasic_Delegate.dll": {}
+        }
+      },
       "ForBasic_Files/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -144,6 +154,11 @@
       "path": "../ForBasic_Class/ForBasic_Class.csproj",
       "msbuildProject": "../ForBasic_Class/ForBasic_Class.csproj"
     },
+    "ForBasic_Delegate/1.0.0": {
+      "type": "project",
+      "path": "../For_Basic_ Delegate/ForBasic_Delegate.csproj",
+      "msbuildProject": "../For_Basic_ Delegate/ForBasic_Delegate.csproj"
+    },
     "ForBasic_Files/1.0.0": {
       "type": "project",
       "path": "../ForBasic_Files/ForBasic_Files.csproj",
@@ -165,6 +180,7 @@
       "ForBasic_Async >= 1.0.0",
       "ForBasic_Attribute >= 1.0.0",
       "ForBasic_Class >= 1.0.0",
+      "ForBasic_Delegate >= 1.0.0",
       "ForBasic_Files >= 1.0.0",
       "ForBasic_Interface >= 1.0.0",
       "ForBasic_Reflection >= 1.0.0"
@@ -213,6 +229,9 @@
             },
             "/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/ForBasic_Reflection.csproj": {
               "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/ForBasic_Reflection.csproj"
+            },
+            "/Users/hujiaqi/Projects/ForBasic/For_Basic_ Delegate/ForBasic_Delegate.csproj": {
+              "projectPath": "/Users/hujiaqi/Projects/ForBasic/For_Basic_ Delegate/ForBasic_Delegate.csproj"
             }
           }
         }
