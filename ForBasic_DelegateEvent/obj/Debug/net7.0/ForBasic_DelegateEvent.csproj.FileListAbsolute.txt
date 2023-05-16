@@ -1,0 +1,12 @@
+/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/bin/Debug/net7.0/ForBasic_DelegateEvent.deps.json
+/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/bin/Debug/net7.0/ForBasic_DelegateEvent.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/bin/Debug/net7.0/ForBasic_DelegateEvent.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/obj/Debug/net7.0/ForBasic_DelegateEvent.csproj.AssemblyReference.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/obj/Debug/net7.0/ForBasic_DelegateEvent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/obj/Debug/net7.0/ForBasic_DelegateEvent.AssemblyInfoInputs.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/obj/Debug/net7.0/ForBasic_DelegateEvent.AssemblyInfo.cs
+/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/obj/Debug/net7.0/ForBasic_DelegateEvent.csproj.CoreCompileInputs.cache
+/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/obj/Debug/net7.0/ForBasic_DelegateEvent.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/obj/Debug/net7.0/refint/ForBasic_DelegateEvent.dll
+/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/obj/Debug/net7.0/ForBasic_DelegateEvent.pdb
+/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/obj/Debug/net7.0/ref/ForBasic_DelegateEvent.dll

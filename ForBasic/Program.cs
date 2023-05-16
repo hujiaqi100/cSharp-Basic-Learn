@@ -17,10 +17,7 @@ namespace ForBasic
   {
     static void Main()
     {
-      Button btn = new Button();
-      UserInterface ui = new UserInterface();
-      btn.Clicked += ui.OnButtonClicked;
-      btn.OnClick();
+
       Console.Read();
     }
   }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hujiaqi/Projects/ForBasic/For_Basic_ Delegate/ForBasic_Delegate.csproj",
-      "projectName": "ForBasic_Delegate",
-      "projectPath": "/Users/hujiaqi/Projects/ForBasic/For_Basic_ Delegate/ForBasic_Delegate.csproj",
+      "projectUniqueName": "/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/ForBasic_DelegateEvent.csproj",
+      "projectName": "ForBasic_DelegateEvent",
+      "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/ForBasic_DelegateEvent.csproj",
       "packagesPath": "/Users/hujiaqi/.nuget/packages/",
-      "outputPath": "/Users/hujiaqi/Projects/ForBasic/For_Basic_ Delegate/obj/",
+      "outputPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hujiaqi/.nuget/NuGet/NuGet.Config"

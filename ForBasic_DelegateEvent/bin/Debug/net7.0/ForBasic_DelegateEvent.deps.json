@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "ForBasic_Delegate/1.0.0": {
+      "ForBasic_DelegateEvent/1.0.0": {
         "runtime": {
-          "ForBasic_Delegate.dll": {}
+          "ForBasic_DelegateEvent.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ForBasic_Delegate/1.0.0": {
+    "ForBasic_DelegateEvent/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

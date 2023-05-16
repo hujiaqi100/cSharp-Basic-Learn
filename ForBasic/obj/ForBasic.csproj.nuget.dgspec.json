@@ -36,6 +36,9 @@
               "/Users/hujiaqi/Projects/ForBasic/ForBasic_Class/ForBasic_Class.csproj": {
                 "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Class/ForBasic_Class.csproj"
               },
+              "/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/ForBasic_DelegateEvent.csproj": {
+                "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/ForBasic_DelegateEvent.csproj"
+              },
               "/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/ForBasic_Files.csproj": {
                 "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/ForBasic_Files.csproj"
               },
@@ -44,9 +47,6 @@
               },
               "/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/ForBasic_Reflection.csproj": {
                 "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/ForBasic_Reflection.csproj"
-              },
-              "/Users/hujiaqi/Projects/ForBasic/For_Basic_ Delegate/ForBasic_Delegate.csproj": {
-                "projectPath": "/Users/hujiaqi/Projects/ForBasic/For_Basic_ Delegate/ForBasic_Delegate.csproj"
               }
             }
           }
@@ -248,6 +248,60 @@
         }
       }
     },
+    "/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/ForBasic_DelegateEvent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/ForBasic_DelegateEvent.csproj",
+        "projectName": "ForBasic_DelegateEvent",
+        "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/ForBasic_DelegateEvent.csproj",
+        "packagesPath": "/Users/hujiaqi/.nuget/packages/",
+        "outputPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_DelegateEvent/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hujiaqi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/hujiaqi/Projects/ForBasic/ForBasic_Files/ForBasic_Files.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -364,60 +418,6 @@
         "projectPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/ForBasic_Reflection.csproj",
         "packagesPath": "/Users/hujiaqi/.nuget/packages/",
         "outputPath": "/Users/hujiaqi/Projects/ForBasic/ForBasic_Reflection/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/hujiaqi/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
-        "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/hujiaqi/Projects/ForBasic/For_Basic_ Delegate/ForBasic_Delegate.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/hujiaqi/Projects/ForBasic/For_Basic_ Delegate/ForBasic_Delegate.csproj",
-        "projectName": "ForBasic_Delegate",
-        "projectPath": "/Users/hujiaqi/Projects/ForBasic/For_Basic_ Delegate/ForBasic_Delegate.csproj",
-        "packagesPath": "/Users/hujiaqi/.nuget/packages/",
-        "outputPath": "/Users/hujiaqi/Projects/ForBasic/For_Basic_ Delegate/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hujiaqi/.nuget/NuGet/NuGet.Config"

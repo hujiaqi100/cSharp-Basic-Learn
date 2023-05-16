@@ -1,4 +1,6 @@
 using System;
+using ForBasic_Delegate;
+
 namespace ForBasic_Delegate
 {
   /*
@@ -28,3 +30,10 @@ namespace ForBasic_Delegate
   }
 }
 
+// Main
+
+//Button btn = new Button();
+//UserInterface ui = new UserInterface();
+//btn.Clicked += ui.OnButtonClicked;
+//btn.OnClick();
+//Console.Read();

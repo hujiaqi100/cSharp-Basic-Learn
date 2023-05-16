@@ -1,17 +1,24 @@
 ﻿<Properties StartupConfiguration="{5EC3FD73-58DF-42B0-A911-E7036278C084}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="For_Basic_ Delegate/委托.cs">
+  <MonoDevelop.Ide.ItemProperties.ForBasic__Delegate FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ForBasic/ForBasic.csproj">
     <Files>
-      <File FileName="ForBasic/ForBasic.csproj" Line="1" Column="1" />
-      <File FileName="ForBasic/Program.cs" Line="24" Column="27" />
-      <File FileName="For_Basic_ Delegate/委托.cs" Line="11" Column="18" />
+      <File FileName="ForBasic/Program.cs" Line="18" Column="6" />
+      <File FileName="ForBasic_Async/ForBasic_Async.csproj" />
+      <File FileName="ForBasic/ForBasic.csproj" Line="26" Column="1" />
+      <File FileName="ForBasic_DelegateEvent/Class1.cs" Line="31" Column="8" />
+      <File FileName="ForBasic_DelegateEvent/EmptyClass.cs" Line="28" Column="31" />
+      <File FileName="ForBasic/结构体.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
           <Node name="ForBasic" expanded="True">
-            <Node name="ForBasic" expanded="True" />
-            <Node name="ForBasic_Delegate" expanded="True" selected="True" />
+            <Node name="ForBasic" expanded="True">
+              <Node name="ForBasic.csproj" selected="True" />
+            </Node>
+            <Node name="ForBasic_Async" expanded="True" />
+            <Node name="ForBasic_DelegateEvent" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,6 +29,8 @@
   <MonoDevelop.Ide.ItemProperties.ForBasic PreferredExecutionTarget="MonoDevelop.Default" />
   <DisabledProjects>
     <String>预处理器指令/ForBasic_Other.csproj</String>
+    <String>For_Basic_ Delegate/ForBasic_Delegate.csproj</String>
+    <String>ForBasic_Delegate/ForBasic_Delegate.csproj</String>
   </DisabledProjects>
   <Debugger.DebugSourceFolders />
   <MultiItemStartupConfigurations>

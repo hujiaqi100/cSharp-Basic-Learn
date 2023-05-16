@@ -11,7 +11,7 @@
           "ForBasic_Async": "1.0.0",
           "ForBasic_Attribute": "1.0.0",
           "ForBasic_Class": "1.0.0",
-          "ForBasic_Delegate": "1.0.0",
+          "ForBasic_DelegateEvent": "1.0.0",
           "ForBasic_Files": "1.0.0",
           "ForBasic_Interface": "1.0.0",
           "ForBasic_Reflection": "1.0.0"
@@ -46,9 +46,9 @@
           "ForBasic_Class.dll": {}
         }
       },
-      "ForBasic_Delegate/1.0.0": {
+      "ForBasic_DelegateEvent/1.0.0": {
         "runtime": {
-          "ForBasic_Delegate.dll": {}
+          "ForBasic_DelegateEvent.dll": {}
         }
       },
       "ForBasic_Files/1.0.0": {
@@ -96,7 +96,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ForBasic_Delegate/1.0.0": {
+    "ForBasic_DelegateEvent/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
